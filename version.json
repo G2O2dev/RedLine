@@ -1,10 +1,10 @@
 [
-	{
-		"version": "0.1.0"
-		"download": "link2",
-	},
-	{
-		"version": "0.0.1",
-		"download": "link1",
-	}
+    {
+        "version": "0.1.0",
+        "download": "link2"
+    },
+    {
+        "version": "0.0.1",
+        "download": "link1"
+    }
 ]
